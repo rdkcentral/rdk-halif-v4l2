@@ -1,1 +1,1 @@
-docs/pages/v4l2_halSpec.md
+./docs/pages/v4l2_halSpec.md
